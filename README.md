@@ -1,0 +1,1 @@
+Record IPCam mjpeg stream
